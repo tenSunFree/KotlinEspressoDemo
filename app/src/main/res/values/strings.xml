@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinEspressoDemo</string>
+    <string name="fragment_main_account_title">帳號</string>
+    <string name="fragment_main_account_hint">請輸入帳號 (test001)</string>
+    <string name="fragment_main_password_title">密碼</string>
+    <string name="fragment_main_password_hint">請輸入密碼 (test002)</string>
+    <string name="fragment_main_sign_in">登入</string>
+</resources>
